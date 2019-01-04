@@ -1,2 +1,2 @@
 # Taron
-Este es mi primer proyecto con **Github**
+Esta será un inventario de cosas cheveres en **Github**
